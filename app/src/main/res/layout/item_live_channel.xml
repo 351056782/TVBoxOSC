@@ -23,7 +23,7 @@
         android:textSize="22mm" />
 
     <TextView    
-        android:id="@+id/tvChannelNum
+        android:id="@+id/tvChannelNum"
         android:layout_width="fill_parent"    
         android:layout_height="wrap_content"    
         android:ellipsize="marquee"    
