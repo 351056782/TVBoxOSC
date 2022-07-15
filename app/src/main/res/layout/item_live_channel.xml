@@ -22,19 +22,6 @@
         android:textColor="@android:color/white"
         android:textSize="22mm" />
 
-    <TextView    
-        android:id="@+id/tvChannelNum"
-        android:layout_width="fill_parent"    
-        android:layout_height="wrap_content"    
-        android:ellipsize="marquee"    
-        android:focusable="true"    
-        android:focusableInTouchMode="true"    
-        android:marqueeRepeatLimit="marquee_forever"    
-        android:scrollHorizontally="true"    
-        android:singleLine="true"    
-        android:text="发发发发发发发发发发发发发"    
-        android:textSize="17sp" />
-
     <TextView
         android:id="@+id/tvChannelName"
         android:layout_width="0mm"
